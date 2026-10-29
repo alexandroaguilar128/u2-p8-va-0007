@@ -2,4 +2,4 @@
 ctrl + shift + P
 
 ## graficas de barras califas por semana en VA 
-![alt text](image1.png)
+![alt text](image.png)
